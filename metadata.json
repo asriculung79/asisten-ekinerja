@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Progres Harian e-Kinerja BKN",
+  "description": "Asisten penyusunan rencana aksi dan progres harian e-Kinerja BKN dengan validasi jam kerja, stempel GPS Timemark, dan pengisi otomatis bookmarklet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
